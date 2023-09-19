@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_color"
+        android:text="Выберите цвет фона"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/button"
+        android:onClick="btn_color">
+    </Button>
+
+    <Button
+        android:id="@+id/btn_third"
+        android:text="Перейти на третью активность"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/button"
+        android:onClick="btn_third">
+    </Button>
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PROJECT_11_LR</string>
+    <string name="preferences">colorBackground</string>
+    <string name="colorKey">backColor</string>
+</resources>
